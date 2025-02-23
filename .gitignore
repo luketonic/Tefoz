@@ -1,0 +1,30 @@
+# === Operating System Files ===
+.DS_Store
+Thumbs.db
+
+# === Editor & IDE Files ===
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# === Node.js Dependencies (if using any) ===
+node_modules/
+
+# === PHP Dependencies ===
+# If you're using Composer for PHP packages, ignore the vendor directory
+/vendor/
+
+# === Build Directories ===
+# These directories might contain compiled or minified assets
+dist/
+build/
+
+# === Environment Files ===
+.env
+
+# === Log Files ===
+*.log
+
+# === Temporary Files ===
+*.tmp
